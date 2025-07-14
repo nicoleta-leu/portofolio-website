@@ -1,0 +1,38 @@
+.project-section {
+  padding: 3rem 1rem;
+  text-align: center;
+  background: #fffdfd;
+}
+
+.project-section h2 {
+  font-size: 18px;
+}
+
+.project-section p {
+  font-style: italic;
+  margin-bottom: 14px;
+  font-size: 14px;
+}
+
+.screenshots {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 30px;
+}
+
+.screenshots img {
+  width: 240px;
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+  transition: transform 0.3s ease;
+  cursor: zoom-in;
+}
+
+.screenshots img:hover {
+  transform: scale(1.05);
+}
+
+
+
+

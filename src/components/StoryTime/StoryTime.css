@@ -1,0 +1,23 @@
+.storytime-section {
+  padding: 4rem 2rem;
+  color: #222;
+  font-family: 'Lora', serif;
+  background-color: white;
+}
+
+.storytime-section h2 {
+  font-size: 2rem;
+  text-align: center;
+  margin-bottom: 2rem;
+  color:#554f54bf;
+  font-family: 'Abril Fatface', serif;
+}
+
+.storytime-content {
+  max-width: 900px;
+  margin: 0 auto;
+  font-size: 12px;
+  line-height: 1.8;
+  text-align: center;
+  align-items: center;
+}

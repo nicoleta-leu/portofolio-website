@@ -1,0 +1,31 @@
+.footer {
+  background: #bcbdbe96;
+  color: black;
+  padding: 2rem 1rem;
+  text-align: center;
+}
+
+.contact-links {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+.contact-links a {
+  text-decoration: none;
+  font-size: 16px;
+  transition: opacity 0.3s ease;
+  color: black;
+}
+
+.contact-links a:hover {
+  opacity: 0.7;
+}
+
+.contact-links svg {
+  font-size: 12px;
+}
+
+
